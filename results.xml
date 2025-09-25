@@ -1,0 +1,35 @@
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="166.68510199999997">
+<testsuite name="demoqaAdmForms.test.js" timestamp="2025-09-24T22:55:06.348Z" hostname="chromium" tests="1" failures="0" skipped="0" time="52.882" errors="0">
+<testcase name="Practice Form" classname="demoqaAdmForms.test.js" time="52.882">
+<system-out>
+<![CDATA[Acessando a página de Login...
+Verificando conexão...
+Conexão aparentemente estável.
+Student Registration Form...
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="demoqaAdmForms.test.js" timestamp="2025-09-24T22:55:06.348Z" hostname="firefox" tests="1" failures="0" skipped="0" time="54.75" errors="0">
+<testcase name="Practice Form" classname="demoqaAdmForms.test.js" time="54.75">
+<system-out>
+<![CDATA[Acessando a página de Login...
+Verificando conexão...
+Conexão aparentemente estável.
+Student Registration Form...
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="demoqaAdmForms.test.js" timestamp="2025-09-24T22:55:06.348Z" hostname="webkit" tests="1" failures="0" skipped="0" time="55.319" errors="0">
+<testcase name="Practice Form" classname="demoqaAdmForms.test.js" time="55.319">
+<system-out>
+<![CDATA[Acessando a página de Login...
+Verificando conexão...
+Conexão aparentemente estável.
+Student Registration Form...
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
