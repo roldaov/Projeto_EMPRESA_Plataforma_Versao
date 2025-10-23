@@ -1,6 +1,6 @@
-<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="166.68510199999997">
-<testsuite name="demoqaAdmForms.test.js" timestamp="2025-09-24T22:55:06.348Z" hostname="chromium" tests="1" failures="0" skipped="0" time="52.882" errors="0">
-<testcase name="Practice Form" classname="demoqaAdmForms.test.js" time="52.882">
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="203.88238499999997">
+<testsuite name="demoqaAdmForms.test.js" timestamp="2025-10-23T16:14:32.970Z" hostname="chromium" tests="1" failures="0" skipped="0" time="88.892" errors="0">
+<testcase name="Practice Form" classname="demoqaAdmForms.test.js" time="88.892">
 <system-out>
 <![CDATA[Acessando a página de Login...
 Verificando conexão...
@@ -10,8 +10,8 @@ Student Registration Form...
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="demoqaAdmForms.test.js" timestamp="2025-09-24T22:55:06.348Z" hostname="firefox" tests="1" failures="0" skipped="0" time="54.75" errors="0">
-<testcase name="Practice Form" classname="demoqaAdmForms.test.js" time="54.75">
+<testsuite name="demoqaAdmForms.test.js" timestamp="2025-10-23T16:14:32.970Z" hostname="firefox" tests="1" failures="0" skipped="0" time="56.089" errors="0">
+<testcase name="Practice Form" classname="demoqaAdmForms.test.js" time="56.089">
 <system-out>
 <![CDATA[Acessando a página de Login...
 Verificando conexão...
@@ -21,8 +21,8 @@ Student Registration Form...
 </system-out>
 </testcase>
 </testsuite>
-<testsuite name="demoqaAdmForms.test.js" timestamp="2025-09-24T22:55:06.348Z" hostname="webkit" tests="1" failures="0" skipped="0" time="55.319" errors="0">
-<testcase name="Practice Form" classname="demoqaAdmForms.test.js" time="55.319">
+<testsuite name="demoqaAdmForms.test.js" timestamp="2025-10-23T16:14:32.970Z" hostname="webkit" tests="1" failures="0" skipped="0" time="54.795" errors="0">
+<testcase name="Practice Form" classname="demoqaAdmForms.test.js" time="54.795">
 <system-out>
 <![CDATA[Acessando a página de Login...
 Verificando conexão...
